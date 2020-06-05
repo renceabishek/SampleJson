@@ -1,0 +1,23 @@
+[
+	{
+		"id": "1001"
+		"street": "Gandhi Nagar",
+		"doorNo": 10,
+		"city": "salem",
+		"country": "India"
+	},
+	{
+		"id": "1002"
+		"street": "Indira Nagar",
+		"doorNo": 12,
+		"city": "chennai",
+		"country": "India"
+	},
+	{
+		"id": "1003"
+		"street": "Abbey road",
+		"doorNo": 154,
+		"city": "London",
+		"country": "UK"
+	}
+]

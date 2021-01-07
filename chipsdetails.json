@@ -1,0 +1,22 @@
+[
+{
+	"id": 1,
+	"color": "red",
+	"grams": "50"
+},
+{
+	"id": 2,
+	"color": "yellow",
+	"grams": "10"
+},
+{
+	"id": 3,
+	"color": "red",
+	"grams": "20"
+},
+{
+	"id": 4,
+	"color": "red",
+	"grams": "15"
+}
+]
